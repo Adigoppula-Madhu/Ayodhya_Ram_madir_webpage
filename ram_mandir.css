@@ -1,0 +1,239 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.starting {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.multi_img_continer {
+    height: auto;
+    width: auto;
+    margin: 20px;
+
+}
+
+
+
+
+.blue-background-section {
+    background-color: #e6f6ff;
+    padding-bottom: 20px;
+    height: auto;
+    width: 100vw;
+
+}
+
+.Ayodhya-name {
+    font-family: "Roboto";
+    padding-top: 13px;
+    padding-left: 13px;
+    font-weight: bold;
+}
+
+.ipl-records-white-background {
+    height: auto;
+    width: auto;
+    background-color: #ffffff;
+    border-radius: 20px;
+    margin: 20px;
+
+}
+
+.introduction_to_Ayodhya_Ram_Mandir {
+    font-size: 20px;
+    width: 300px;
+    margin-left: 10px;
+    height: 20px;
+    margin-top: 10px;
+    color: #5D1DE3;
+    font-family: "Bree Serif";
+
+}
+
+.records-paragraph {
+    margin-top: 35px;
+    margin-left: 10px;
+    font-family: "Roboto";
+    color: #565554;
+
+}
+
+.mandir-img {
+    height: auto;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.Historical_Background_of_Ayodhya_Name {
+    font-size: 20px;
+    width: auto;
+    text-align: center;
+    height: 20px;
+    margin-top: 10px;
+    padding-top: 10px;
+    color: #5D1DE3;
+    font-family: "Bree Serif";
+    padding: 15px;
+
+
+}
+
+.Early_Origin_name {
+    color: #fb4e71;
+    font-size: 20px;
+    font-family: "Bree Serif";
+    padding: 10px;
+    text-decoration: underline;
+    width: auto;
+}
+
+.Early_origin-paragraph {
+    margin-top: 5px;
+    margin-left: 10px;
+    font-family: "Roboto";
+    color: #565554;
+    width: auto;
+    padding-left: 10px;
+}
+
+.Royal_Kingdom_name {
+    color: #fb4e71;
+    font-size: 20px;
+    font-family: "Bree Serif";
+    padding: 10px;
+    margin-left: 5px;
+    text-decoration: underline;
+    width: auto;
+}
+
+.Royal_Kingdom-paragraph {
+    margin-top: 5px;
+    margin-left: 20px;
+    font-family: "Roboto";
+    color: #565554;
+    width: auto;
+    padding-left: 10px;
+
+}
+
+.ram-img1 {
+    height: auto;
+    width: auto;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.Significance_of_rama_name {
+    font-size: 20px;
+    width: auto;
+    text-align: center;
+    height: auto;
+    margin: auto;
+    padding-top: 10px;
+    color: #5D1DE3;
+    font-family: "Bree Serif";
+    padding: 15px;
+}
+
+.Significance_of_rama_paragraph {
+    margin: auto;
+    margin-left: 20px;
+    font-family: "Roboto";
+    color: #565554;
+    width: auto;
+}
+
+.Divine_Avator {
+    color: #fb4e71;
+    font-size: 20px;
+    font-family: "Bree Serif";
+    padding: 10px;
+    text-decoration: underline;
+    width: auto;
+    margin-top: 20px;
+}
+
+.court-img {
+    height: 250px;
+    border-radius: 20px;
+    width: 100%;
+    background-size: cover;
+}
+
+.land_dispuit_tital {
+    font-size: 20px;
+    width: auto;
+    text-align: center;
+    height: auto;
+    margin: auto;
+    padding-top: 10px;
+    color: red;
+    font-family: "Bree Serif";
+
+}
+
+.misra-img {
+
+    width: 150px;
+    height: auto;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.misra_name_title {
+    font-size: 20px;
+    width: auto;
+    text-align: left;
+    height: auto;
+    margin: auto;
+    padding-top: 10px;
+    color: #5D1DE3;
+    font-family: "Bree Serif";
+    padding: 15px;
+}
+
+.ram_mandir_img_video_one {
+    border-radius: 20px;
+    height: 100px;
+    width: 150px;
+    margin: auto;
+
+}
+
+.ram_mandir_img_video_one_title {
+    font-family: "Bree Serif";
+    font-size: 13px;
+    color: black;
+    margin: auto;
+    margin-top: 8px;
+
+}
+
+.live_video_section {
+    margin: 20px;
+    border-radius: 20px;
+    width: auto;
+}
+
+.jai_sriram {
+    text-align: center;
+    font-family: "Bree Serif";
+    font-size: 20px;
+    color: orange;
+    font-weight: 600;
+}
+
+.jai_sriram_img {
+    height: auto;
+    width: 100vw;
+
+
+}
+
+.name {
+    text-align: right;
+    font-size: 10px;
+    color: orange;
+    font-weight: bold;
+    font-family: "Bree Serif";
+}
